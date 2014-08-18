@@ -5,4 +5,4 @@ It's designed for the BeagleBone Black, but capes are generally backwards compat
 
 Screenshot
 ==========
-![BeagleBone Black Cape](https://raw.github.com/ryansturmer/BeagleBoneCape/master/screenshot.png)
+![BeagleBone Black Cape](/screenshot.jpg?raw=true "BeagleBone Black Cape")
