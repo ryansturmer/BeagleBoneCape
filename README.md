@@ -1,8 +1,8 @@
-BeagleBone Shield
+BeagleBone Cape
 =================
-This is a beaglebone shield project template in Altium Designer.
-It's designed for the BeagleBone Black, but shields are generally backwards compatible with the older BeagleBone models.
+This is a beaglebone cape project template in Altium Designer.
+It's designed for the BeagleBone Black, but capes are generally backwards compatible with the older BeagleBone models.
 
 Screenshot
 ==========
-![BeagleBone Black Shield](https://raw.github.com/ryansturmer/BeagleBoneShield/master/screenshot.png)
+![BeagleBone Black Cape](https://raw.github.com/ryansturmer/BeagleBoneCape/master/screenshot.png)
